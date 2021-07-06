@@ -1,0 +1,36 @@
+body{
+font-family:sans-serif;
+    background-color:rgb(163, 154, 30);
+    color: rgba(10, 10, 10, 0.952);
+
+
+}
+header{
+    
+    position: fixed;
+    padding-left: 1cm;
+    padding-bottom: 1cm;
+   top: 0cm; 
+}
+div{
+    padding-left: 1cm;
+    padding-top: 1cm;
+    
+float: left;
+width: 15cm;
+
+
+}
+img{ 
+    
+ float: right;
+width: 12cm;
+
+}
+
+footer{ 
+    position: fixed;
+ bottom: 0cm;
+
+
+}
